@@ -1,0 +1,10 @@
+.headerpic{
+  background-image: url("ttop.jpg");
+  background-size: cover;
+  height: 50vh;
+
+}
+
+.blue{
+  background-color: #416E8F;
+}
