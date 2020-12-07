@@ -8,3 +8,9 @@
 .blue{
   background-color: #416E8F;
 }
+
+.tunnel{
+  background-image: url("map replacement.jpg");
+  background-size: cover;
+  height: 45vh;
+}
